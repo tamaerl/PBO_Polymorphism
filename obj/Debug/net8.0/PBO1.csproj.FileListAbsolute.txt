@@ -1,0 +1,14 @@
+C:\Users\Rumah\source\repos\PBO1\bin\Debug\net8.0\PBO1.exe
+C:\Users\Rumah\source\repos\PBO1\bin\Debug\net8.0\PBO1.deps.json
+C:\Users\Rumah\source\repos\PBO1\bin\Debug\net8.0\PBO1.runtimeconfig.json
+C:\Users\Rumah\source\repos\PBO1\bin\Debug\net8.0\PBO1.dll
+C:\Users\Rumah\source\repos\PBO1\bin\Debug\net8.0\PBO1.pdb
+C:\Users\Rumah\source\repos\PBO1\obj\Debug\net8.0\PBO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumah\source\repos\PBO1\obj\Debug\net8.0\PBO1.AssemblyInfoInputs.cache
+C:\Users\Rumah\source\repos\PBO1\obj\Debug\net8.0\PBO1.AssemblyInfo.cs
+C:\Users\Rumah\source\repos\PBO1\obj\Debug\net8.0\PBO1.csproj.CoreCompileInputs.cache
+C:\Users\Rumah\source\repos\PBO1\obj\Debug\net8.0\PBO1.dll
+C:\Users\Rumah\source\repos\PBO1\obj\Debug\net8.0\refint\PBO1.dll
+C:\Users\Rumah\source\repos\PBO1\obj\Debug\net8.0\PBO1.pdb
+C:\Users\Rumah\source\repos\PBO1\obj\Debug\net8.0\PBO1.genruntimeconfig.cache
+C:\Users\Rumah\source\repos\PBO1\obj\Debug\net8.0\ref\PBO1.dll
